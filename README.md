@@ -91,8 +91,11 @@ Skills                   ➤ Machine Learning, Python, SQL
 
 ## 📸 Visual Output
 ## 1. Extracted Entities from Plain Text Resume
+
 <img width="542" height="170" alt="image" src="https://github.com/user-attachments/assets/75f08253-8405-4c77-85e1-b9ce500265c8" />
+
 ## 2. Extracted Entities from PDF Resume
+
 <img width="370" height="153" alt="image" src="https://github.com/user-attachments/assets/1d128a64-34ca-4671-a283-1ddbb6c54e8c" />
 
 ## 📌 Notes
